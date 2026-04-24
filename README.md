@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![alt text](https://github.com/NerimoZ/nerimoz/blob/main/42musume.jpg)
+
 <!--
 **NerimoZ/nerimoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

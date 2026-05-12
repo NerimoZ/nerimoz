@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋
 
 ![alt text](https://github.com/NerimoZ/nerimoz/blob/main/42musume.jpg)
 
